@@ -1,0 +1,38 @@
+#botaoverde_textobranco{
+    background-color: rgb(53, 167, 1);
+    color: #fff;
+}
+
+#img4040{
+    width: 40px;
+}
+
+.banner{
+    width: 800px;
+}
+
+.footer {
+    background-color: black;
+     color: #fff;
+    text-align: center;
+    height: 100px;
+    }
+
+
+    .container {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        margin: 0px;
+        }
+
+        li{
+            text-decoration: none;
+            list-style-type: none;
+        }
+    
+    
+
+
